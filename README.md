@@ -6,3 +6,4 @@ EMAILARCABOOKSout2025
 <img width="1391" height="876" alt="TELADEITADA" src="https://github.com/user-attachments/assets/72288ad7-6af9-4000-8f42-eea513f2ffb4" />
 <img width="1116" height="836" alt="celular" src="https://github.com/user-attachments/assets/d5c73ff8-b4a3-451a-b779-937b1576c589" />
 <img width="1713" height="8193" alt="bgred" src="https://github.com/user-attachments/assets/f754b63c-a183-4608-abdf-4b3ed4af432e" />
+<img width="984" height="1060" alt="telas" src="https://github.com/user-attachments/assets/77a35c36-eb4d-4e90-893c-0882d94f47ad" />
