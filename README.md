@@ -17,3 +17,4 @@ EMAILARCABOOKSout2025
 <img width="962" height="166" alt="FUNCIONALIDADES" src="https://github.com/user-attachments/assets/9e1aa5ee-1ef6-4dc7-894b-46cc053732e0" />
 <img width="984" height="1060" alt="telas" src="https://github.com/user-attachments/assets/287ee02f-344c-4875-b30f-4d93ebab6e0e" />
 <img width="1500" height="1500" alt="APP_ARCABOOKS" src="https://github.com/user-attachments/assets/13b93598-ca10-489f-80e9-874a11d78d22" />
+<img width="1080" height="1080" alt="LOGO ARCABOOK - RED" src="https://github.com/user-attachments/assets/e37c9677-92fe-4977-b443-d57a7ced27ab" />
