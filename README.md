@@ -11,6 +11,6 @@ EMAILARCABOOKSout2025
 ![Adobe Express - GIF ARCABOOKS](https://github.com/user-attachments/assets/e8d35342-4670-49e9-a7a4-4719f41c3343)
 <img width="1713" height="8193" alt="bgcoral" src="https://github.com/user-attachments/assets/ef0b94e6-5a5e-4413-b705-6e97245304c1" />
 <img width="962" height="166" alt="livrogratuito" src="https://github.com/user-attachments/assets/7c816fc9-1fc1-4bd2-bfd0-e88124d7bab8" />
-<img width="962" height="166" alt="google" src="https://github.com/user-attachments/assets/49f23066-d8c1-47eb-a8fe-921fb0e684db" />
 <img width="962" height="166" alt="conhecerebooks" src="https://github.com/user-attachments/assets/44b87473-c675-458f-8d96-0e981160fcbf" />
-<img width="962" height="166" alt="apple" src="https://github.com/user-attachments/assets/263cc6fd-c84b-47c6-bb01-eb1d3885e99f" />
+<img width="500" height="150" alt="apple" src="https://github.com/user-attachments/assets/50e234bb-6eda-471c-aafa-3e6adf3a7234" />
+<img width="509" height="150" alt="google" src="https://github.com/user-attachments/assets/aa7a996b-4684-43d5-bb5b-71e637aa5da3" />
