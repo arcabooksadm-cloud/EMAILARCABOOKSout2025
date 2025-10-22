@@ -5,7 +5,6 @@ EMAILARCABOOKSout2025
 <img width="800" height="938" alt="TELA3" src="https://github.com/user-attachments/assets/3dbc684a-9467-41a7-87b1-89c32378daa1" />
 <img width="1116" height="836" alt="celular" src="https://github.com/user-attachments/assets/d5c73ff8-b4a3-451a-b779-937b1576c589" />
 <img width="1713" height="8193" alt="bgred" src="https://github.com/user-attachments/assets/f754b63c-a183-4608-abdf-4b3ed4af432e" />
-<img width="984" height="1060" alt="telas" src="https://github.com/user-attachments/assets/77a35c36-eb4d-4e90-893c-0882d94f47ad" />
 <img width="1365" height="876" alt="TELADEITADA" src="https://github.com/user-attachments/assets/0d155f67-c7f2-4a80-b342-457dcc94e6e6" />
 <img width="1713" height="8193" alt="rede" src="https://github.com/user-attachments/assets/d85b254e-7d7e-4167-a87e-2b1bb1d15fed" />
 ![Adobe Express - GIF ARCABOOKS](https://github.com/user-attachments/assets/e8d35342-4670-49e9-a7a4-4719f41c3343)
@@ -16,3 +15,4 @@ EMAILARCABOOKSout2025
 <img width="509" height="150" alt="google" src="https://github.com/user-attachments/assets/8f119161-1e85-4902-bd7b-4d6b4e057f29" />
 <img width="500" height="150" alt="apple" src="https://github.com/user-attachments/assets/1ca1620b-07ce-4f15-baa2-15db74571db4" />
 <img width="962" height="166" alt="FUNCIONALIDADES" src="https://github.com/user-attachments/assets/9e1aa5ee-1ef6-4dc7-894b-46cc053732e0" />
+<img width="984" height="1060" alt="telas" src="https://github.com/user-attachments/assets/287ee02f-344c-4875-b30f-4d93ebab6e0e" />
