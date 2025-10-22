@@ -15,3 +15,4 @@ EMAILARCABOOKSout2025
 <img width="500" height="150" alt="apple" src="https://github.com/user-attachments/assets/50e234bb-6eda-471c-aafa-3e6adf3a7234" />
 <img width="509" height="150" alt="google" src="https://github.com/user-attachments/assets/aa7a996b-4684-43d5-bb5b-71e637aa5da3" />
 <img width="962" height="166" alt="euquero" src="https://github.com/user-attachments/assets/f26304d1-75fd-4334-9fd2-4f108149d373" />
+<img width="755" height="912" alt="mockup" src="https://github.com/user-attachments/assets/8542cfef-b78e-4ad1-b853-fb854467d8ed" />
