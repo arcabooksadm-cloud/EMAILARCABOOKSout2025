@@ -8,8 +8,6 @@ EMAILARCABOOKSout2025
 <img width="1365" height="876" alt="TELADEITADA" src="https://github.com/user-attachments/assets/0d155f67-c7f2-4a80-b342-457dcc94e6e6" />
 <img width="1713" height="8193" alt="rede" src="https://github.com/user-attachments/assets/d85b254e-7d7e-4167-a87e-2b1bb1d15fed" />
 ![Adobe Express - GIF ARCABOOKS](https://github.com/user-attachments/assets/e8d35342-4670-49e9-a7a4-4719f41c3343)
-![TOPANI](https://github.com/user-attachments/assets/8a027ef1-0bdf-4d16-b1b7-880da5c2bbdb)
-
 <img width="1713" height="8193" alt="bgcoral" src="https://github.com/user-attachments/assets/ef0b94e6-5a5e-4413-b705-6e97245304c1" />
 <img width="962" height="166" alt="conhecerebooks" src="https://github.com/user-attachments/assets/44b87473-c675-458f-8d96-0e981160fcbf" />
 <img width="962" height="166" alt="euquero" src="https://github.com/user-attachments/assets/f26304d1-75fd-4334-9fd2-4f108149d373" />
@@ -20,3 +18,4 @@ EMAILARCABOOKSout2025
 <img width="984" height="1060" alt="telas" src="https://github.com/user-attachments/assets/287ee02f-344c-4875-b30f-4d93ebab6e0e" />
 <img width="1500" height="1500" alt="APP_ARCABOOKS" src="https://github.com/user-attachments/assets/13b93598-ca10-489f-80e9-874a11d78d22" />
 <img width="1080" height="1080" alt="LOGO ARCABOOK - RED" src="https://github.com/user-attachments/assets/e37c9677-92fe-4977-b443-d57a7ced27ab" />
+![ANIMACAO](https://github.com/user-attachments/assets/e29788f1-db33-4cad-8451-15e45a2e75ab)
